@@ -1,0 +1,1 @@
+This is an C# API for comunicating with XBee/XBee-Pro series 1 (802.15.4) and series 2 (ZNet 2.5 and ZB/ZigBee Pro) OEM RF Modules, in API mode. It is based on xbe-api java project.
